@@ -42,3 +42,10 @@
   
   [AcuVuz](https://github.com/AcuVuz) - Lead Software Engineer from September 2022
 </details>
+
+<details>
+  <summary>💻 Freelance</summary>
+  <br/>
+  
+  [Massage](https://massage-lg.org/) - A massage clinic site with admin panel.
+</details>
